@@ -1,1 +1,11 @@
 /* This is an empty CSS Stylesheet for practice and fooling around, not meant to hold any important data */
+.butts {
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.freepik.com%2Ffree-icon%2Fback-part-of-the-body-showing-butt-area_318-47870.jpg&f=1&nofb=1);
+  background-repeat: no-repeat;
+  display: flex;
+  align-content: center;
+}
+
+.green {
+  background-color: green;
+}
